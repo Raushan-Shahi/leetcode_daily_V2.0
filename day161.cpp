@@ -8,3 +8,4 @@ public:
         return d>0 ? t>=d: t!=1;
     }
 };
+//hi bro
