@@ -24,6 +24,3 @@ public:
         return M[s2.length() % 2][s1.length()];
     }
 };
-
-
-
