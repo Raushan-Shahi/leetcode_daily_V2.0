@@ -18,7 +18,7 @@ public:
         return dp[i][j][moveLeft]=ans;
     }
     int findPaths(int m, int n, int maxMove, int Row, int Column) {
-        this->m=m, this->n=n;
+        this->m=m, this->n=n;day
         memset(dp, -1, sizeof(dp));
         return f(Row, Column, maxMove);
     }
