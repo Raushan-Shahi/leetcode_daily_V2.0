@@ -19,7 +19,7 @@ public:
             }else{
                 v[i] -= k;
                 k =0;
-            }
+            }z
             if(v[i]!=0)cnt++;
         }
 
@@ -27,6 +27,3 @@ public:
 
     }
 };
-
-
-
