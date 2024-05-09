@@ -17,5 +17,6 @@ public:
             result.push_back(rankMapping[s]);
         }
         return result;
+//hi
     }
 };
