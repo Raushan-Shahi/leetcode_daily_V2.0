@@ -37,4 +37,4 @@ auto init = []() {
     cin.tie(nullptr);
     cout.tie(nullptr);
     return 'c';
-}();git 
+}();
